@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|c:\\users\\nam31\\source\\repos\\nqn.lab04\\nqn.lab04.2\\nqn.lab04.2\\views\\nqncustomer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|solutionrelative:nqn.lab04.2\\views\\nqncustomer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|c:\\users\\nam31\\source\\repos\\nqn.lab04\\nqn.lab04.2\\nqn.lab04.2\\controllers\\nqncustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|solutionrelative:nqn.lab04.2\\controllers\\nqncustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|c:\\users\\nam31\\source\\repos\\nqn.lab04\\nqn.lab04.2\\nqn.lab04.2\\views\\nqncustomer\\getcustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|solutionrelative:nqn.lab04.2\\views\\nqncustomer\\getcustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|c:\\users\\nam31\\source\\repos\\nqn.lab04\\nqn.lab04.2\\nqn.lab04.2\\views\\nqncustomer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|solutionrelative:nqn.lab04.2\\views\\nqncustomer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|c:\\users\\nam31\\source\\repos\\nqn.lab04\\nqn.lab04.2\\nqn.lab04.2\\views\\nqncustomer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|solutionrelative:nqn.lab04.2\\views\\nqncustomer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|c:\\users\\nam31\\source\\repos\\nqn.lab04\\nqn.lab04.2\\nqn.lab04.2\\models\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|solutionrelative:nqn.lab04.2\\models\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|c:\\users\\nam31\\source\\repos\\nqn.lab04\\nqn.lab04.2\\nqn.lab04.2\\models\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|solutionrelative:nqn.lab04.2\\models\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|c:\\users\\nam31\\source\\repos\\nqn.lab04\\nqn.lab04.2\\nqn.lab04.2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|solutionrelative:nqn.lab04.2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|c:\\users\\nam31\\source\\repos\\nqn.lab04\\nqn.lab04.2\\nqn.lab04.2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8130CB69-B0D9-4F41-9D02-BF75DF305414}|Nqn.lab04.2\\Nqn.lab04.2.csproj|solutionrelative:nqn.lab04.2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Views\\NqnCustomer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Nqn.lab04.2\\Views\\NqnCustomer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Views\\NqnCustomer\\Edit.cshtml",
+              "RelativeToolTip": "Nqn.lab04.2\\Views\\NqnCustomer\\Edit.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAwwEwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:27:11.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Views\\NqnCustomer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Nqn.lab04.2\\Views\\NqnCustomer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Views\\NqnCustomer\\Create.cshtml",
+              "RelativeToolTip": "Nqn.lab04.2\\Views\\NqnCustomer\\Create.cshtml",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwFYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:26:23.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Views\\NqnCustomer\\Details.cshtml",
+              "RelativeDocumentMoniker": "Nqn.lab04.2\\Views\\NqnCustomer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Views\\NqnCustomer\\Details.cshtml",
+              "RelativeToolTip": "Nqn.lab04.2\\Views\\NqnCustomer\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:21:52.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetCustomers.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Views\\NqnCustomer\\GetCustomers.cshtml",
+              "RelativeDocumentMoniker": "Nqn.lab04.2\\Views\\NqnCustomer\\GetCustomers.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Views\\NqnCustomer\\GetCustomers.cshtml",
+              "RelativeToolTip": "Nqn.lab04.2\\Views\\NqnCustomer\\GetCustomers.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAgwE8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:19:41.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NqnCustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Controllers\\NqnCustomerController.cs",
+              "RelativeDocumentMoniker": "Nqn.lab04.2\\Controllers\\NqnCustomerController.cs",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Controllers\\NqnCustomerController.cs",
+              "RelativeToolTip": "Nqn.lab04.2\\Controllers\\NqnCustomerController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:17:19.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Models\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Nqn.lab04.2\\Models\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Models\\ICustomerRepository.cs",
+              "RelativeToolTip": "Nqn.lab04.2\\Models\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:15:50.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Models\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Nqn.lab04.2\\Models\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Models\\CustomerRepository.cs",
+              "RelativeToolTip": "Nqn.lab04.2\\Models\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:14:54.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Nqn.lab04.2\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Models\\Customer.cs",
+              "RelativeToolTip": "Nqn.lab04.2\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:10:13.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nqn.lab04.2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.lab04\\Nqn.lab04.2\\Nqn.lab04.2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nqn.lab04.2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:08:20.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
